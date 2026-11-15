@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="resuorses/warden-search-logo.png" alt="Warden-Search Logo" width="112" height="112" />
+<img src="resources/warden-serch-logo.png" alt="Warden-Search Logo" width="112" height="112" />
 
 # Warden-Search
 
