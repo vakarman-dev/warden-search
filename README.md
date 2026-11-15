@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://githubusercontent.com" alt="Warden-Search Logo" width="112" height="112" />
+<img src="https://github.com/vakarman-dev/warden-browser/resuorses/winder-browser-logo.png" alt="Warden-Search Logo" width="112" height="112" />
 
 # Warden-Search
 
